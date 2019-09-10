@@ -1,3 +1,6 @@
+![Conversor de Modedas](conversor-animação.gif)
+![Convertendo Modedas](conversor-animação-conversão.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

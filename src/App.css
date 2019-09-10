@@ -13,3 +13,13 @@
 h1 {
   text-align: center;
 }
+
+@media only screen and (max-width: 740px) {
+
+  .linha {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
